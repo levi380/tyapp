@@ -1,0 +1,24 @@
+{
+  "appConfig": {
+    "appName": "SK",
+    "packageName": "com.sk2026.app",
+    "version": "2.0.2",
+    "versionCode": "5",
+    "iconPath": "assets/launcher/sk_icon.png"
+  },
+  "envConfig": {
+    "api": "https://www5.learntest.cc/",
+    "imgBaseUrl": "https://www5.learntest.cc",
+    "apkDownloadUrl": "",
+    "mqtt": "wss://rmqtt-dev.learntest.cc/mqtt",
+    "adId": "",
+    "env": "uat",
+    "urls": [
+      "https://files-sk-1367458492.cos.ap-shanghai.myqcloud.com/files2.pb"
+    ],
+    "onLineUrls": [],
+    "onLineImgUrls": [
+      "https://www5.learntest.cc"
+    ]
+  }
+}

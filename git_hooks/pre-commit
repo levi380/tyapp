@@ -1,0 +1,55 @@
+#!/bin/sh
+
+echo "Running pre-commit hook."
+
+# 1. Run `flutter analyze` to check for any issues.
+echo "Running flutter analyze command."
+
+result=$(flutter analyze --no-fatal-infos --no-fatal-warnings)
+exitCode=$? # If the exitCode is zero, then command executed successfully.
+
+if [ $exitCode -ne 0 ]; then
+	echo "$result"
+	echo "Flutter analyze found issues, please fix them."
+	exit 1
+fi
+echo "Finished running flutter analyze command."
+
+################################################################
+
+# 2. Run `dart dry --apply` to auto-fix basic issues.
+echo "Running dart fix command."
+result=$(dart fix --apply)
+exitCode=$?
+
+# Adding the files updated by `dart fix` command to git.
+git add .
+
+echo "$result"
+
+if [ $exitCode -ne 0 ]; then
+	echo "dart fix command failed to execute."
+	exit 1
+fi
+echo "Finished running dart fix command."
+
+################################################################
+
+# 3. Run `dart format .` to format the code.
+echo "Running dart format command."
+
+result=$(dart format .)
+exitCode=$?
+
+# Adding the files updated by `flutter format` command to git.
+git add .
+
+echo "$result"
+
+if [ $exitCode -ne 0 ]; then
+	echo "dart format command failed to execute."
+	exit 1
+fi
+echo "Finished running dart format command."
+
+exit 0

@@ -1,0 +1,3933 @@
+[
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 6,
+    "total": 6,
+    "timestamp": 1758351675903
+  },
+  {
+    "type": "page_switch",
+    "page": "HomePage",
+    "timestamp": 1758351676019
+  },
+  {
+    "type": "frame",
+    "build": 562,
+    "raster": 5,
+    "total": 568,
+    "timestamp": 1758351676670
+  },
+  {
+    "type": "frame",
+    "build": 295,
+    "raster": 27,
+    "total": 343,
+    "timestamp": 1758351677110
+  },
+  {
+    "type": "frame",
+    "build": 4,
+    "raster": 5,
+    "total": 27,
+    "timestamp": 1758351677399
+  },
+  {
+    "type": "frame",
+    "build": 5,
+    "raster": 9,
+    "total": 17,
+    "timestamp": 1758351677399
+  },
+  {
+    "type": "frame",
+    "build": 201,
+    "raster": 9,
+    "total": 216,
+    "timestamp": 1758351677510
+  },
+  {
+    "type": "frame",
+    "build": 5,
+    "raster": 11,
+    "total": 18,
+    "timestamp": 1758351677510
+  },
+  {
+    "type": "frame",
+    "build": 34,
+    "raster": 8,
+    "total": 47,
+    "timestamp": 1758351677703
+  },
+  {
+    "type": "frame",
+    "build": 5,
+    "raster": 7,
+    "total": 14,
+    "timestamp": 1758351677703
+  },
+  {
+    "type": "frame",
+    "build": 13,
+    "raster": 9,
+    "total": 40,
+    "timestamp": 1758351677703
+  },
+  {
+    "type": "frame",
+    "build": 10,
+    "raster": 10,
+    "total": 32,
+    "timestamp": 1758351677878
+  },
+  {
+    "type": "frame",
+    "build": 20,
+    "raster": 10,
+    "total": 33,
+    "timestamp": 1758351677879
+  },
+  {
+    "type": "frame",
+    "build": 13,
+    "raster": 9,
+    "total": 23,
+    "timestamp": 1758351678620
+  },
+  {
+    "type": "memory",
+    "used": 110100480,
+    "timestamp": 1758351678629
+  },
+  {
+    "type": "frame",
+    "build": 54,
+    "raster": 11,
+    "total": 67,
+    "timestamp": 1758351679183
+  },
+  {
+    "type": "frame",
+    "build": 158,
+    "raster": 8,
+    "total": 174,
+    "timestamp": 1758351679511
+  },
+  {
+    "type": "frame",
+    "build": 16,
+    "raster": 8,
+    "total": 27,
+    "timestamp": 1758351679511
+  },
+  {
+    "type": "frame",
+    "build": 81,
+    "raster": 9,
+    "total": 93,
+    "timestamp": 1758351679711
+  },
+  {
+    "type": "frame",
+    "build": 27,
+    "raster": 10,
+    "total": 38,
+    "timestamp": 1758351679711
+  },
+  {
+    "type": "frame",
+    "build": 4,
+    "raster": 7,
+    "total": 13,
+    "timestamp": 1758351679711
+  },
+  {
+    "type": "frame",
+    "build": 5,
+    "raster": 12,
+    "total": 18,
+    "timestamp": 1758351679884
+  },
+  {
+    "type": "frame",
+    "build": 7,
+    "raster": 7,
+    "total": 24,
+    "timestamp": 1758351679884
+  },
+  {
+    "type": "frame",
+    "build": 4,
+    "raster": 5,
+    "total": 10,
+    "timestamp": 1758351679884
+  },
+  {
+    "type": "frame",
+    "build": 4,
+    "raster": 7,
+    "total": 12,
+    "timestamp": 1758351679884
+  },
+  {
+    "type": "frame",
+    "build": 8,
+    "raster": 7,
+    "total": 21,
+    "timestamp": 1758351679884
+  },
+  {
+    "type": "frame",
+    "build": 50,
+    "raster": 13,
+    "total": 64,
+    "timestamp": 1758351679993
+  },
+  {
+    "type": "frame",
+    "build": 5,
+    "raster": 7,
+    "total": 20,
+    "timestamp": 1758351679993
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 8,
+    "total": 13,
+    "timestamp": 1758351679993
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 7,
+    "total": 17,
+    "timestamp": 1758351679993
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 12,
+    "total": 18,
+    "timestamp": 1758351680114
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 11,
+    "timestamp": 1758351680114
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 6,
+    "total": 14,
+    "timestamp": 1758351680114
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 5,
+    "total": 15,
+    "timestamp": 1758351680114
+  },
+  {
+    "type": "frame",
+    "build": 5,
+    "raster": 6,
+    "total": 17,
+    "timestamp": 1758351680114
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 6,
+    "total": 14,
+    "timestamp": 1758351680226
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 10,
+    "total": 31,
+    "timestamp": 1758351680226
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 5,
+    "total": 18,
+    "timestamp": 1758351680226
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 4,
+    "total": 12,
+    "timestamp": 1758351680226
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 4,
+    "total": 9,
+    "timestamp": 1758351680226
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 5,
+    "total": 10,
+    "timestamp": 1758351680342
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 11,
+    "timestamp": 1758351680342
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 11,
+    "timestamp": 1758351680342
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 12,
+    "timestamp": 1758351680342
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 10,
+    "timestamp": 1758351680342
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 5,
+    "total": 10,
+    "timestamp": 1758351680342
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 11,
+    "timestamp": 1758351680342
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 8,
+    "total": 13,
+    "timestamp": 1758351680460
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 6,
+    "total": 12,
+    "timestamp": 1758351680460
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 10,
+    "timestamp": 1758351680460
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 9,
+    "timestamp": 1758351680460
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 5,
+    "total": 9,
+    "timestamp": 1758351680460
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 5,
+    "total": 10,
+    "timestamp": 1758351680460
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 14,
+    "timestamp": 1758351680460
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 5,
+    "total": 9,
+    "timestamp": 1758351680577
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 10,
+    "total": 15,
+    "timestamp": 1758351680577
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 9,
+    "timestamp": 1758351680577
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 10,
+    "timestamp": 1758351680577
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 9,
+    "timestamp": 1758351680577
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 13,
+    "timestamp": 1758351680577
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 13,
+    "timestamp": 1758351680577
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 5,
+    "total": 11,
+    "timestamp": 1758351680849
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 5,
+    "total": 10,
+    "timestamp": 1758351680849
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 11,
+    "timestamp": 1758351680849
+  },
+  {
+    "type": "frame",
+    "build": 6,
+    "raster": 9,
+    "total": 16,
+    "timestamp": 1758351680849
+  },
+  {
+    "type": "frame",
+    "build": 14,
+    "raster": 9,
+    "total": 26,
+    "timestamp": 1758351680980
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 7,
+    "total": 13,
+    "timestamp": 1758351680980
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 15,
+    "timestamp": 1758351680980
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 5,
+    "total": 10,
+    "timestamp": 1758351680980
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 13,
+    "timestamp": 1758351680980
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 5,
+    "total": 17,
+    "timestamp": 1758351680980
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 10,
+    "timestamp": 1758351680980
+  },
+  {
+    "type": "frame",
+    "build": 4,
+    "raster": 6,
+    "total": 14,
+    "timestamp": 1758351681111
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 5,
+    "total": 13,
+    "timestamp": 1758351681111
+  },
+  {
+    "type": "frame",
+    "build": 4,
+    "raster": 6,
+    "total": 13,
+    "timestamp": 1758351681111
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 6,
+    "total": 12,
+    "timestamp": 1758351681111
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 10,
+    "timestamp": 1758351681111
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 10,
+    "timestamp": 1758351681111
+  },
+  {
+    "type": "frame",
+    "build": 20,
+    "raster": 10,
+    "total": 34,
+    "timestamp": 1758351681213
+  },
+  {
+    "type": "frame",
+    "build": 4,
+    "raster": 7,
+    "total": 18,
+    "timestamp": 1758351681213
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 9,
+    "total": 14,
+    "timestamp": 1758351681213
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 8,
+    "total": 17,
+    "timestamp": 1758351681213
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 10,
+    "timestamp": 1758351681330
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 9,
+    "timestamp": 1758351681330
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 8,
+    "timestamp": 1758351681330
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 7,
+    "total": 11,
+    "timestamp": 1758351681330
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 10,
+    "timestamp": 1758351681330
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 10,
+    "timestamp": 1758351681330
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 10,
+    "timestamp": 1758351681330
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 12,
+    "timestamp": 1758351681443
+  },
+  {
+    "type": "frame",
+    "build": 6,
+    "raster": 12,
+    "total": 18,
+    "timestamp": 1758351681443
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 8,
+    "total": 21,
+    "timestamp": 1758351681443
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 8,
+    "total": 11,
+    "timestamp": 1758351681443
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 10,
+    "timestamp": 1758351681562
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 10,
+    "timestamp": 1758351681562
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 5,
+    "total": 9,
+    "timestamp": 1758351681562
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 10,
+    "timestamp": 1758351681562
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 5,
+    "total": 9,
+    "timestamp": 1758351681562
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 9,
+    "timestamp": 1758351681562
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351681562
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 12,
+    "timestamp": 1758351681674
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 5,
+    "total": 25,
+    "timestamp": 1758351681674
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 9,
+    "total": 14,
+    "timestamp": 1758351681674
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 8,
+    "total": 12,
+    "timestamp": 1758351681674
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 8,
+    "timestamp": 1758351681674
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 8,
+    "timestamp": 1758351681674
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 4,
+    "total": 7,
+    "timestamp": 1758351681796
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351681796
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 12,
+    "total": 29,
+    "timestamp": 1758351681796
+  },
+  {
+    "type": "frame",
+    "build": 12,
+    "raster": 13,
+    "total": 41,
+    "timestamp": 1758351681796
+  },
+  {
+    "type": "frame",
+    "build": 8,
+    "raster": 14,
+    "total": 24,
+    "timestamp": 1758351681967
+  },
+  {
+    "type": "frame",
+    "build": 17,
+    "raster": 19,
+    "total": 38,
+    "timestamp": 1758351681967
+  },
+  {
+    "type": "frame",
+    "build": 23,
+    "raster": 22,
+    "total": 61,
+    "timestamp": 1758351681967
+  },
+  {
+    "type": "frame",
+    "build": 31,
+    "raster": 24,
+    "total": 61,
+    "timestamp": 1758351682154
+  },
+  {
+    "type": "frame",
+    "build": 15,
+    "raster": 24,
+    "total": 45,
+    "timestamp": 1758351682154
+  },
+  {
+    "type": "frame",
+    "build": 6,
+    "raster": 10,
+    "total": 21,
+    "timestamp": 1758351682154
+  },
+  {
+    "type": "frame",
+    "build": 14,
+    "raster": 20,
+    "total": 35,
+    "timestamp": 1758351682386
+  },
+  {
+    "type": "frame",
+    "build": 74,
+    "raster": 20,
+    "total": 95,
+    "timestamp": 1758351682494
+  },
+  {
+    "type": "frame",
+    "build": 21,
+    "raster": 30,
+    "total": 57,
+    "timestamp": 1758351682494
+  },
+  {
+    "type": "frame",
+    "build": 30,
+    "raster": 31,
+    "total": 66,
+    "timestamp": 1758351682701
+  },
+  {
+    "type": "frame",
+    "build": 14,
+    "raster": 21,
+    "total": 38,
+    "timestamp": 1758351682701
+  },
+  {
+    "type": "frame",
+    "build": 24,
+    "raster": 17,
+    "total": 54,
+    "timestamp": 1758351682803
+  },
+  {
+    "type": "frame",
+    "build": 17,
+    "raster": 21,
+    "total": 49,
+    "timestamp": 1758351682803
+  },
+  {
+    "type": "frame",
+    "build": 20,
+    "raster": 24,
+    "total": 48,
+    "timestamp": 1758351683025
+  },
+  {
+    "type": "frame",
+    "build": 28,
+    "raster": 24,
+    "total": 75,
+    "timestamp": 1758351683025
+  },
+  {
+    "type": "frame",
+    "build": 39,
+    "raster": 36,
+    "total": 79,
+    "timestamp": 1758351683259
+  },
+  {
+    "type": "frame",
+    "build": 22,
+    "raster": 23,
+    "total": 63,
+    "timestamp": 1758351683259
+  },
+  {
+    "type": "memory",
+    "used": 115343360,
+    "timestamp": 1758351683382
+  },
+  {
+    "type": "frame",
+    "build": 20,
+    "raster": 29,
+    "total": 62,
+    "timestamp": 1758351683451
+  },
+  {
+    "type": "frame",
+    "build": 13,
+    "raster": 24,
+    "total": 54,
+    "timestamp": 1758351683451
+  },
+  {
+    "type": "frame",
+    "build": 8,
+    "raster": 16,
+    "total": 25,
+    "timestamp": 1758351684187
+  },
+  {
+    "type": "frame",
+    "build": 11,
+    "raster": 15,
+    "total": 39,
+    "timestamp": 1758351684921
+  },
+  {
+    "type": "frame",
+    "build": 11,
+    "raster": 18,
+    "total": 31,
+    "timestamp": 1758351686152
+  },
+  {
+    "type": "frame",
+    "build": 1061,
+    "raster": 13,
+    "total": 1083,
+    "timestamp": 1758351686221
+  },
+  {
+    "type": "frame",
+    "build": 10,
+    "raster": 10,
+    "total": 25,
+    "timestamp": 1758351686221
+  },
+  {
+    "type": "frame",
+    "build": 518,
+    "raster": 24,
+    "total": 549,
+    "timestamp": 1758351688028
+  },
+  {
+    "type": "frame",
+    "build": 17,
+    "raster": 25,
+    "total": 44,
+    "timestamp": 1758351688606
+  },
+  {
+    "type": "memory",
+    "used": 120586240,
+    "timestamp": 1758351688627
+  },
+  {
+    "type": "frame",
+    "build": 66,
+    "raster": 37,
+    "total": 112,
+    "timestamp": 1758351689127
+  },
+  {
+    "type": "frame",
+    "build": 837,
+    "raster": 27,
+    "total": 865,
+    "timestamp": 1758351691333
+  },
+  {
+    "type": "frame",
+    "build": 48,
+    "raster": 22,
+    "total": 75,
+    "timestamp": 1758351691581
+  },
+  {
+    "type": "frame",
+    "build": 22,
+    "raster": 18,
+    "total": 55,
+    "timestamp": 1758351691581
+  },
+  {
+    "type": "frame",
+    "build": 58,
+    "raster": 14,
+    "total": 78,
+    "timestamp": 1758351691821
+  },
+  {
+    "type": "frame",
+    "build": 55,
+    "raster": 21,
+    "total": 90,
+    "timestamp": 1758351691986
+  },
+  {
+    "type": "frame",
+    "build": 25,
+    "raster": 13,
+    "total": 46,
+    "timestamp": 1758351691986
+  },
+  {
+    "type": "frame",
+    "build": 257,
+    "raster": 30,
+    "total": 288,
+    "timestamp": 1758351692455
+  },
+  {
+    "type": "frame",
+    "build": 20,
+    "raster": 17,
+    "total": 43,
+    "timestamp": 1758351693003
+  },
+  {
+    "type": "frame",
+    "build": 305,
+    "raster": 18,
+    "total": 331,
+    "timestamp": 1758351693004
+  },
+  {
+    "type": "memory",
+    "used": 125829120,
+    "timestamp": 1758351693490
+  },
+  {
+    "type": "frame",
+    "build": 134,
+    "raster": 16,
+    "total": 152,
+    "timestamp": 1758351693496
+  },
+  {
+    "type": "frame",
+    "build": 133,
+    "raster": 19,
+    "total": 153,
+    "timestamp": 1758351693669
+  },
+  {
+    "type": "frame",
+    "build": 491,
+    "raster": 33,
+    "total": 529,
+    "timestamp": 1758351694437
+  },
+  {
+    "type": "frame",
+    "build": 76,
+    "raster": 12,
+    "total": 95,
+    "timestamp": 1758351695119
+  },
+  {
+    "type": "frame",
+    "build": 790,
+    "raster": 37,
+    "total": 829,
+    "timestamp": 1758351696101
+  },
+  {
+    "type": "frame",
+    "build": 109,
+    "raster": 43,
+    "total": 153,
+    "timestamp": 1758351696498
+  },
+  {
+    "type": "frame",
+    "build": 121,
+    "raster": 34,
+    "total": 158,
+    "timestamp": 1758351696849
+  },
+  {
+    "type": "frame",
+    "build": 274,
+    "raster": 31,
+    "total": 322,
+    "timestamp": 1758351697376
+  },
+  {
+    "type": "frame",
+    "build": 377,
+    "raster": 30,
+    "total": 421,
+    "timestamp": 1758351697722
+  },
+  {
+    "type": "frame",
+    "build": 213,
+    "raster": 43,
+    "total": 281,
+    "timestamp": 1758351697807
+  },
+  {
+    "type": "frame",
+    "build": 18,
+    "raster": 27,
+    "total": 51,
+    "timestamp": 1758351697807
+  },
+  {
+    "type": "frame",
+    "build": 16,
+    "raster": 39,
+    "total": 57,
+    "timestamp": 1758351697974
+  },
+  {
+    "type": "frame",
+    "build": 18,
+    "raster": 46,
+    "total": 79,
+    "timestamp": 1758351698153
+  },
+  {
+    "type": "memory",
+    "used": 131072000,
+    "timestamp": 1758351699093
+  },
+  {
+    "type": "frame",
+    "build": 852,
+    "raster": 34,
+    "total": 888,
+    "timestamp": 1758351699146
+  },
+  {
+    "type": "frame",
+    "build": 91,
+    "raster": 26,
+    "total": 117,
+    "timestamp": 1758351699373
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 25,
+    "total": 31,
+    "timestamp": 1758351699373
+  },
+  {
+    "type": "frame",
+    "build": 5,
+    "raster": 24,
+    "total": 35,
+    "timestamp": 1758351699373
+  },
+  {
+    "type": "frame",
+    "build": 20,
+    "raster": 36,
+    "total": 70,
+    "timestamp": 1758351699536
+  },
+  {
+    "type": "frame",
+    "build": 5,
+    "raster": 44,
+    "total": 55,
+    "timestamp": 1758351699536
+  },
+  {
+    "type": "frame",
+    "build": 70,
+    "raster": 37,
+    "total": 116,
+    "timestamp": 1758351701448
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 39,
+    "total": 55,
+    "timestamp": 1758351701448
+  },
+  {
+    "type": "frame",
+    "build": 13,
+    "raster": 27,
+    "total": 47,
+    "timestamp": 1758351702765
+  },
+  {
+    "type": "frame",
+    "build": 86,
+    "raster": 34,
+    "total": 124,
+    "timestamp": 1758351703104
+  },
+  {
+    "type": "frame",
+    "build": 17,
+    "raster": 57,
+    "total": 82,
+    "timestamp": 1758351703104
+  },
+  {
+    "type": "memory",
+    "used": 136314880,
+    "timestamp": 1758351703629
+  },
+  {
+    "type": "frame",
+    "build": 357,
+    "raster": 39,
+    "total": 398,
+    "timestamp": 1758351703645
+  },
+  {
+    "type": "frame",
+    "build": 15,
+    "raster": 47,
+    "total": 63,
+    "timestamp": 1758351703888
+  },
+  {
+    "type": "frame",
+    "build": 21,
+    "raster": 32,
+    "total": 68,
+    "timestamp": 1758351703888
+  },
+  {
+    "type": "frame",
+    "build": 5,
+    "raster": 50,
+    "total": 61,
+    "timestamp": 1758351704128
+  },
+  {
+    "type": "frame",
+    "build": 6,
+    "raster": 37,
+    "total": 50,
+    "timestamp": 1758351704128
+  },
+  {
+    "type": "frame",
+    "build": 16,
+    "raster": 54,
+    "total": 72,
+    "timestamp": 1758351704517
+  },
+  {
+    "type": "frame",
+    "build": 8,
+    "raster": 30,
+    "total": 42,
+    "timestamp": 1758351704517
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 38,
+    "total": 59,
+    "timestamp": 1758351704517
+  },
+  {
+    "type": "frame",
+    "build": 16,
+    "raster": 54,
+    "total": 97,
+    "timestamp": 1758351704517
+  },
+  {
+    "type": "frame",
+    "build": 19,
+    "raster": 61,
+    "total": 108,
+    "timestamp": 1758351704534
+  },
+  {
+    "type": "frame",
+    "build": 1443,
+    "raster": 69,
+    "total": 1514,
+    "timestamp": 1758351706227
+  },
+  {
+    "type": "frame",
+    "build": 432,
+    "raster": 31,
+    "total": 466,
+    "timestamp": 1758351706948
+  },
+  {
+    "type": "frame",
+    "build": 765,
+    "raster": 71,
+    "total": 839,
+    "timestamp": 1758351707958
+  },
+  {
+    "type": "memory",
+    "used": 141557760,
+    "timestamp": 1758351708601
+  },
+  {
+    "type": "frame",
+    "build": 338,
+    "raster": 36,
+    "total": 375,
+    "timestamp": 1758351708820
+  },
+  {
+    "type": "frame",
+    "build": 571,
+    "raster": 62,
+    "total": 637,
+    "timestamp": 1758351709612
+  },
+  {
+    "type": "frame",
+    "build": 55,
+    "raster": 58,
+    "total": 115,
+    "timestamp": 1758351710080
+  },
+  {
+    "type": "frame",
+    "build": 208,
+    "raster": 52,
+    "total": 267,
+    "timestamp": 1758351710193
+  },
+  {
+    "type": "frame",
+    "build": 454,
+    "raster": 28,
+    "total": 483,
+    "timestamp": 1758351711008
+  },
+  {
+    "type": "frame",
+    "build": 233,
+    "raster": 34,
+    "total": 284,
+    "timestamp": 1758351711177
+  },
+  {
+    "type": "frame",
+    "build": 81,
+    "raster": 61,
+    "total": 143,
+    "timestamp": 1758351711367
+  },
+  {
+    "type": "frame",
+    "build": 5,
+    "raster": 34,
+    "total": 40,
+    "timestamp": 1758351711367
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 61,
+    "total": 98,
+    "timestamp": 1758351711367
+  },
+  {
+    "type": "frame",
+    "build": 27,
+    "raster": 86,
+    "total": 147,
+    "timestamp": 1758351711705
+  },
+  {
+    "type": "frame",
+    "build": 36,
+    "raster": 63,
+    "total": 129,
+    "timestamp": 1758351711705
+  },
+  {
+    "type": "frame",
+    "build": 86,
+    "raster": 68,
+    "total": 167,
+    "timestamp": 1758351711859
+  },
+  {
+    "type": "frame",
+    "build": 19,
+    "raster": 56,
+    "total": 87,
+    "timestamp": 1758351711859
+  },
+  {
+    "type": "frame",
+    "build": 745,
+    "raster": 14,
+    "total": 761,
+    "timestamp": 1758351712849
+  },
+  {
+    "type": "frame",
+    "build": 121,
+    "raster": 10,
+    "total": 134,
+    "timestamp": 1758351712952
+  },
+  {
+    "type": "frame",
+    "build": 24,
+    "raster": 11,
+    "total": 35,
+    "timestamp": 1758351712952
+  },
+  {
+    "type": "frame",
+    "build": 15,
+    "raster": 6,
+    "total": 22,
+    "timestamp": 1758351712952
+  },
+  {
+    "type": "frame",
+    "build": 4,
+    "raster": 8,
+    "total": 13,
+    "timestamp": 1758351713058
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 6,
+    "total": 7,
+    "timestamp": 1758351713058
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351713058
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 13,
+    "total": 15,
+    "timestamp": 1758351713058
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 10,
+    "timestamp": 1758351713058
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351713172
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 23,
+    "timestamp": 1758351713172
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 8,
+    "total": 13,
+    "timestamp": 1758351713172
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351713172
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351713172
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 10,
+    "total": 11,
+    "timestamp": 1758351713293
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351713293
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 10,
+    "total": 11,
+    "timestamp": 1758351713293
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351713293
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 13,
+    "total": 14,
+    "timestamp": 1758351713293
+  },
+  {
+    "type": "memory",
+    "used": 146800640,
+    "timestamp": 1758351713380
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351713421
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 6,
+    "total": 7,
+    "timestamp": 1758351713421
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351713421
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 10,
+    "total": 10,
+    "timestamp": 1758351713421
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351713421
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 11,
+    "timestamp": 1758351713539
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351713539
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 11,
+    "timestamp": 1758351713539
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 5,
+    "total": 8,
+    "timestamp": 1758351713539
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351713539
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 6,
+    "total": 7,
+    "timestamp": 1758351713539
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351713670
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 10,
+    "timestamp": 1758351713670
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351713670
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 10,
+    "timestamp": 1758351713670
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 8,
+    "timestamp": 1758351713670
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 5,
+    "total": 6,
+    "timestamp": 1758351713789
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351713789
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 11,
+    "timestamp": 1758351713789
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351713789
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 10,
+    "timestamp": 1758351713789
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351713920
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 10,
+    "timestamp": 1758351713920
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351713920
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 10,
+    "timestamp": 1758351713920
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351713920
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 10,
+    "timestamp": 1758351714039
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351714039
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 10,
+    "timestamp": 1758351714039
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351714039
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 11,
+    "timestamp": 1758351714039
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351714170
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 11,
+    "timestamp": 1758351714170
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351714170
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 11,
+    "timestamp": 1758351714170
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 8,
+    "timestamp": 1758351714170
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 5,
+    "total": 7,
+    "timestamp": 1758351714289
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351714289
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 10,
+    "timestamp": 1758351714289
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351714289
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 11,
+    "timestamp": 1758351714289
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351714421
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 11,
+    "timestamp": 1758351714421
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351714421
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 10,
+    "timestamp": 1758351714421
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351714421
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 10,
+    "timestamp": 1758351714553
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351714553
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 10,
+    "timestamp": 1758351714553
+  },
+  {
+    "type": "frame",
+    "build": 8,
+    "raster": 7,
+    "total": 16,
+    "timestamp": 1758351714553
+  },
+  {
+    "type": "frame",
+    "build": 20,
+    "raster": 10,
+    "total": 31,
+    "timestamp": 1758351714659
+  },
+  {
+    "type": "frame",
+    "build": 4,
+    "raster": 7,
+    "total": 12,
+    "timestamp": 1758351714659
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351714659
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 6,
+    "total": 7,
+    "timestamp": 1758351714659
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351714659
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 11,
+    "timestamp": 1758351714659
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 8,
+    "timestamp": 1758351714787
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 5,
+    "total": 6,
+    "timestamp": 1758351714787
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351714787
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 11,
+    "timestamp": 1758351714787
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351714787
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 10,
+    "timestamp": 1758351714905
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351714905
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 11,
+    "timestamp": 1758351714905
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351714905
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 10,
+    "total": 10,
+    "timestamp": 1758351714905
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351715037
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 10,
+    "total": 10,
+    "timestamp": 1758351715037
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351715037
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 10,
+    "total": 10,
+    "timestamp": 1758351715037
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 9,
+    "timestamp": 1758351715037
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 5,
+    "total": 6,
+    "timestamp": 1758351715155
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351715155
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 10,
+    "total": 10,
+    "timestamp": 1758351715155
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351715155
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 10,
+    "total": 10,
+    "timestamp": 1758351715155
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351715287
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 10,
+    "total": 11,
+    "timestamp": 1758351715287
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 8,
+    "timestamp": 1758351715287
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 5,
+    "total": 6,
+    "timestamp": 1758351715287
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351715287
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 10,
+    "timestamp": 1758351715406
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351715406
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 10,
+    "timestamp": 1758351715406
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351715406
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 10,
+    "total": 10,
+    "timestamp": 1758351715406
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351715537
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 10,
+    "timestamp": 1758351715537
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351715537
+  },
+  {
+    "type": "frame",
+    "build": 7,
+    "raster": 6,
+    "total": 15,
+    "timestamp": 1758351715537
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351715537
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 10,
+    "timestamp": 1758351715656
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351715656
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 9,
+    "total": 10,
+    "timestamp": 1758351715656
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 10,
+    "timestamp": 1758351715656
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 10,
+    "total": 11,
+    "timestamp": 1758351715656
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 10,
+    "timestamp": 1758351715788
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 10,
+    "total": 11,
+    "timestamp": 1758351715788
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 8,
+    "timestamp": 1758351715788
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 5,
+    "total": 7,
+    "timestamp": 1758351715788
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351715788
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 10,
+    "total": 10,
+    "timestamp": 1758351715905
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351715905
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 12,
+    "timestamp": 1758351715905
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 7,
+    "total": 10,
+    "timestamp": 1758351715905
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 6,
+    "total": 7,
+    "timestamp": 1758351715905
+  },
+  {
+    "type": "frame",
+    "build": 4,
+    "raster": 11,
+    "total": 16,
+    "timestamp": 1758351716079
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 10,
+    "total": 12,
+    "timestamp": 1758351716079
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351716079
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 10,
+    "total": 13,
+    "timestamp": 1758351716079
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 7,
+    "timestamp": 1758351716079
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351716079
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 10,
+    "timestamp": 1758351716188
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351716188
+  },
+  {
+    "type": "frame",
+    "build": 22,
+    "raster": 10,
+    "total": 33,
+    "timestamp": 1758351716188
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 10,
+    "total": 27,
+    "timestamp": 1758351716188
+  },
+  {
+    "type": "frame",
+    "build": 4,
+    "raster": 6,
+    "total": 11,
+    "timestamp": 1758351716188
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 5,
+    "total": 9,
+    "timestamp": 1758351716188
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 5,
+    "total": 7,
+    "timestamp": 1758351716302
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 7,
+    "timestamp": 1758351716302
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351716302
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351716302
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351716302
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351716302
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 5,
+    "total": 7,
+    "timestamp": 1758351716302
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351716420
+  },
+  {
+    "type": "frame",
+    "build": 8,
+    "raster": 6,
+    "total": 15,
+    "timestamp": 1758351716420
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 6,
+    "total": 10,
+    "timestamp": 1758351716420
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351716420
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351716420
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351716420
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351716420
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351716538
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 7,
+    "timestamp": 1758351716538
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351716538
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351716538
+  },
+  {
+    "type": "frame",
+    "build": 8,
+    "raster": 7,
+    "total": 16,
+    "timestamp": 1758351716538
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351716538
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351716538
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351716836
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 5,
+    "total": 7,
+    "timestamp": 1758351716836
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 6,
+    "total": 9,
+    "timestamp": 1758351716836
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 7,
+    "timestamp": 1758351716836
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 6,
+    "total": 8,
+    "timestamp": 1758351716836
+  },
+  {
+    "type": "frame",
+    "build": 174,
+    "raster": 13,
+    "total": 198,
+    "timestamp": 1758351716943
+  },
+  {
+    "type": "frame",
+    "build": 36,
+    "raster": 29,
+    "total": 67,
+    "timestamp": 1758351716943
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 12,
+    "total": 36,
+    "timestamp": 1758351716943
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 12,
+    "total": 15,
+    "timestamp": 1758351717131
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 13,
+    "total": 17,
+    "timestamp": 1758351717131
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 13,
+    "total": 16,
+    "timestamp": 1758351717131
+  },
+  {
+    "type": "frame",
+    "build": 4,
+    "raster": 19,
+    "total": 29,
+    "timestamp": 1758351717131
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 14,
+    "total": 30,
+    "timestamp": 1758351717131
+  },
+  {
+    "type": "frame",
+    "build": 67,
+    "raster": 18,
+    "total": 94,
+    "timestamp": 1758351717239
+  },
+  {
+    "type": "frame",
+    "build": 11,
+    "raster": 12,
+    "total": 24,
+    "timestamp": 1758351717239
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 12,
+    "total": 14,
+    "timestamp": 1758351717239
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 14,
+    "total": 17,
+    "timestamp": 1758351717239
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 13,
+    "total": 19,
+    "timestamp": 1758351717239
+  },
+  {
+    "type": "frame",
+    "build": 4,
+    "raster": 20,
+    "total": 24,
+    "timestamp": 1758351717379
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 18,
+    "total": 27,
+    "timestamp": 1758351717379
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 14,
+    "total": 17,
+    "timestamp": 1758351717379
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 14,
+    "total": 16,
+    "timestamp": 1758351717379
+  },
+  {
+    "type": "frame",
+    "build": 4,
+    "raster": 12,
+    "total": 18,
+    "timestamp": 1758351717379
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 15,
+    "timestamp": 1758351717379
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 15,
+    "total": 18,
+    "timestamp": 1758351717528
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 12,
+    "total": 15,
+    "timestamp": 1758351717528
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 16,
+    "total": 19,
+    "timestamp": 1758351717528
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 12,
+    "total": 18,
+    "timestamp": 1758351717528
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 15,
+    "total": 19,
+    "timestamp": 1758351717528
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 16,
+    "timestamp": 1758351717528
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 17,
+    "total": 20,
+    "timestamp": 1758351717676
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 12,
+    "total": 17,
+    "timestamp": 1758351717676
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 19,
+    "total": 22,
+    "timestamp": 1758351717676
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 17,
+    "total": 24,
+    "timestamp": 1758351717676
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 13,
+    "total": 17,
+    "timestamp": 1758351717676
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 13,
+    "total": 29,
+    "timestamp": 1758351717806
+  },
+  {
+    "type": "frame",
+    "build": 26,
+    "raster": 16,
+    "total": 44,
+    "timestamp": 1758351717806
+  },
+  {
+    "type": "frame",
+    "build": 7,
+    "raster": 12,
+    "total": 20,
+    "timestamp": 1758351717806
+  },
+  {
+    "type": "frame",
+    "build": 18,
+    "raster": 19,
+    "total": 38,
+    "timestamp": 1758351717806
+  },
+  {
+    "type": "frame",
+    "build": 6,
+    "raster": 12,
+    "total": 19,
+    "timestamp": 1758351717929
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 10,
+    "total": 15,
+    "timestamp": 1758351717929
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 12,
+    "total": 15,
+    "timestamp": 1758351717929
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 13,
+    "timestamp": 1758351717929
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 15,
+    "total": 18,
+    "timestamp": 1758351717929
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 17,
+    "timestamp": 1758351717929
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 15,
+    "total": 18,
+    "timestamp": 1758351718078
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 15,
+    "timestamp": 1758351718078
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 15,
+    "total": 19,
+    "timestamp": 1758351718078
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 15,
+    "timestamp": 1758351718078
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 16,
+    "total": 18,
+    "timestamp": 1758351718078
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 16,
+    "timestamp": 1758351718078
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 16,
+    "total": 19,
+    "timestamp": 1758351718229
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 15,
+    "timestamp": 1758351718229
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 15,
+    "total": 18,
+    "timestamp": 1758351718229
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 15,
+    "timestamp": 1758351718229
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 16,
+    "total": 19,
+    "timestamp": 1758351718229
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 17,
+    "timestamp": 1758351718229
+  },
+  {
+    "type": "memory",
+    "used": 152043520,
+    "timestamp": 1758351718379
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 16,
+    "total": 20,
+    "timestamp": 1758351718379
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 12,
+    "total": 18,
+    "timestamp": 1758351718379
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 12,
+    "total": 14,
+    "timestamp": 1758351718379
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 12,
+    "total": 13,
+    "timestamp": 1758351718379
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 16,
+    "total": 19,
+    "timestamp": 1758351718379
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 17,
+    "timestamp": 1758351718379
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 15,
+    "total": 18,
+    "timestamp": 1758351718549
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 16,
+    "timestamp": 1758351718549
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 12,
+    "total": 15,
+    "timestamp": 1758351718549
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 12,
+    "total": 14,
+    "timestamp": 1758351718549
+  },
+  {
+    "type": "frame",
+    "build": 7,
+    "raster": 16,
+    "total": 24,
+    "timestamp": 1758351718549
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 16,
+    "total": 25,
+    "timestamp": 1758351718549
+  },
+  {
+    "type": "frame",
+    "build": 16,
+    "raster": 12,
+    "total": 29,
+    "timestamp": 1758351718658
+  },
+  {
+    "type": "frame",
+    "build": 5,
+    "raster": 12,
+    "total": 18,
+    "timestamp": 1758351718658
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 12,
+    "total": 17,
+    "timestamp": 1758351718658
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 16,
+    "total": 18,
+    "timestamp": 1758351718658
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 12,
+    "total": 15,
+    "timestamp": 1758351718658
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 16,
+    "total": 19,
+    "timestamp": 1758351718795
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 16,
+    "timestamp": 1758351718795
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 12,
+    "total": 15,
+    "timestamp": 1758351718795
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 12,
+    "timestamp": 1758351718795
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 16,
+    "total": 20,
+    "timestamp": 1758351718795
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 16,
+    "timestamp": 1758351718795
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 11,
+    "total": 14,
+    "timestamp": 1758351718932
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 13,
+    "timestamp": 1758351718932
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 15,
+    "total": 18,
+    "timestamp": 1758351718932
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 17,
+    "timestamp": 1758351718932
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 16,
+    "total": 19,
+    "timestamp": 1758351718932
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 15,
+    "timestamp": 1758351719043
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 16,
+    "total": 19,
+    "timestamp": 1758351719043
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 16,
+    "timestamp": 1758351719043
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 15,
+    "total": 18,
+    "timestamp": 1758351719043
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 13,
+    "timestamp": 1758351719043
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 17,
+    "total": 20,
+    "timestamp": 1758351719207
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 12,
+    "total": 17,
+    "timestamp": 1758351719207
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 17,
+    "total": 21,
+    "timestamp": 1758351719207
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 12,
+    "total": 18,
+    "timestamp": 1758351719207
+  },
+  {
+    "type": "frame",
+    "build": 4,
+    "raster": 17,
+    "total": 30,
+    "timestamp": 1758351719207
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 13,
+    "total": 29,
+    "timestamp": 1758351719207
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 12,
+    "total": 15,
+    "timestamp": 1758351719326
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 16,
+    "total": 18,
+    "timestamp": 1758351719326
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 12,
+    "total": 15,
+    "timestamp": 1758351719326
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 15,
+    "total": 17,
+    "timestamp": 1758351719326
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 11,
+    "total": 14,
+    "timestamp": 1758351719326
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 12,
+    "timestamp": 1758351719444
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 15,
+    "total": 18,
+    "timestamp": 1758351719444
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 13,
+    "timestamp": 1758351719444
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 16,
+    "total": 18,
+    "timestamp": 1758351719444
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 15,
+    "timestamp": 1758351719444
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 15,
+    "total": 18,
+    "timestamp": 1758351719593
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 14,
+    "timestamp": 1758351719593
+  },
+  {
+    "type": "frame",
+    "build": 6,
+    "raster": 12,
+    "total": 19,
+    "timestamp": 1758351719593
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 11,
+    "total": 16,
+    "timestamp": 1758351719593
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 13,
+    "timestamp": 1758351719593
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 15,
+    "total": 18,
+    "timestamp": 1758351719593
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 15,
+    "timestamp": 1758351719593
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 15,
+    "total": 18,
+    "timestamp": 1758351719742
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 13,
+    "timestamp": 1758351719742
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 16,
+    "total": 18,
+    "timestamp": 1758351719742
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 15,
+    "timestamp": 1758351719742
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 12,
+    "total": 15,
+    "timestamp": 1758351719742
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 13,
+    "timestamp": 1758351719742
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 16,
+    "total": 20,
+    "timestamp": 1758351719893
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 12,
+    "total": 18,
+    "timestamp": 1758351719893
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 11,
+    "total": 15,
+    "timestamp": 1758351719893
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 12,
+    "timestamp": 1758351719893
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 11,
+    "total": 15,
+    "timestamp": 1758351719893
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 11,
+    "total": 14,
+    "timestamp": 1758351719893
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 12,
+    "total": 13,
+    "timestamp": 1758351719893
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 16,
+    "total": 18,
+    "timestamp": 1758351720043
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 15,
+    "timestamp": 1758351720043
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 15,
+    "total": 18,
+    "timestamp": 1758351720043
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 16,
+    "timestamp": 1758351720043
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 12,
+    "total": 15,
+    "timestamp": 1758351720043
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 12,
+    "total": 13,
+    "timestamp": 1758351720043
+  },
+  {
+    "type": "frame",
+    "build": 19,
+    "raster": 16,
+    "total": 36,
+    "timestamp": 1758351720198
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 11,
+    "total": 17,
+    "timestamp": 1758351720198
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 12,
+    "total": 14,
+    "timestamp": 1758351720198
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 12,
+    "total": 12,
+    "timestamp": 1758351720198
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 12,
+    "total": 14,
+    "timestamp": 1758351720198
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 12,
+    "timestamp": 1758351720198
+  },
+  {
+    "type": "frame",
+    "build": 18,
+    "raster": 15,
+    "total": 34,
+    "timestamp": 1758351720352
+  },
+  {
+    "type": "frame",
+    "build": 5,
+    "raster": 12,
+    "total": 18,
+    "timestamp": 1758351720352
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 11,
+    "total": 16,
+    "timestamp": 1758351720352
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 12,
+    "timestamp": 1758351720352
+  },
+  {
+    "type": "frame",
+    "build": 19,
+    "raster": 16,
+    "total": 36,
+    "timestamp": 1758351720352
+  },
+  {
+    "type": "frame",
+    "build": 4,
+    "raster": 11,
+    "total": 17,
+    "timestamp": 1758351720462
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 12,
+    "total": 16,
+    "timestamp": 1758351720462
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 12,
+    "total": 13,
+    "timestamp": 1758351720462
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 15,
+    "total": 19,
+    "timestamp": 1758351720462
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 11,
+    "total": 15,
+    "timestamp": 1758351720462
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 12,
+    "total": 16,
+    "timestamp": 1758351720791
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 12,
+    "total": 14,
+    "timestamp": 1758351720791
+  },
+  {
+    "type": "frame",
+    "build": 217,
+    "raster": 40,
+    "total": 258,
+    "timestamp": 1758351720896
+  },
+  {
+    "type": "frame",
+    "build": 15,
+    "raster": 28,
+    "total": 50,
+    "timestamp": 1758351720896
+  },
+  {
+    "type": "frame",
+    "build": 68,
+    "raster": 41,
+    "total": 113,
+    "timestamp": 1758351721295
+  },
+  {
+    "type": "frame",
+    "build": 182,
+    "raster": 38,
+    "total": 222,
+    "timestamp": 1758351721389
+  },
+  {
+    "type": "frame",
+    "build": 27,
+    "raster": 26,
+    "total": 56,
+    "timestamp": 1758351721389
+  },
+  {
+    "type": "frame",
+    "build": 13,
+    "raster": 21,
+    "total": 35,
+    "timestamp": 1758351721556
+  },
+  {
+    "type": "frame",
+    "build": 19,
+    "raster": 33,
+    "total": 54,
+    "timestamp": 1758351721556
+  },
+  {
+    "type": "frame",
+    "build": 29,
+    "raster": 25,
+    "total": 55,
+    "timestamp": 1758351721819
+  },
+  {
+    "type": "frame",
+    "build": 8,
+    "raster": 25,
+    "total": 34,
+    "timestamp": 1758351721819
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 33,
+    "total": 37,
+    "timestamp": 1758351721819
+  },
+  {
+    "type": "frame",
+    "build": 19,
+    "raster": 37,
+    "total": 63,
+    "timestamp": 1758351721819
+  },
+  {
+    "type": "frame",
+    "build": 17,
+    "raster": 43,
+    "total": 63,
+    "timestamp": 1758351721896
+  },
+  {
+    "type": "frame",
+    "build": 14,
+    "raster": 37,
+    "total": 53,
+    "timestamp": 1758351722031
+  },
+  {
+    "type": "frame",
+    "build": 28,
+    "raster": 59,
+    "total": 90,
+    "timestamp": 1758351722031
+  },
+  {
+    "type": "frame",
+    "build": 14,
+    "raster": 35,
+    "total": 51,
+    "timestamp": 1758351722241
+  },
+  {
+    "type": "frame",
+    "build": 14,
+    "raster": 36,
+    "total": 52,
+    "timestamp": 1758351722241
+  },
+  {
+    "type": "frame",
+    "build": 14,
+    "raster": 42,
+    "total": 58,
+    "timestamp": 1758351722241
+  },
+  {
+    "type": "frame",
+    "build": 18,
+    "raster": 55,
+    "total": 75,
+    "timestamp": 1758351722583
+  },
+  {
+    "type": "frame",
+    "build": 136,
+    "raster": 37,
+    "total": 175,
+    "timestamp": 1758351722809
+  },
+  {
+    "type": "frame",
+    "build": 140,
+    "raster": 46,
+    "total": 188,
+    "timestamp": 1758351722922
+  },
+  {
+    "type": "frame",
+    "build": 10,
+    "raster": 29,
+    "total": 40,
+    "timestamp": 1758351722922
+  },
+  {
+    "type": "frame",
+    "build": 0,
+    "raster": 27,
+    "total": 37,
+    "timestamp": 1758351722922
+  },
+  {
+    "type": "frame",
+    "build": 12,
+    "raster": 29,
+    "total": 52,
+    "timestamp": 1758351723094
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 25,
+    "total": 51,
+    "timestamp": 1758351723094
+  },
+  {
+    "type": "frame",
+    "build": 13,
+    "raster": 35,
+    "total": 62,
+    "timestamp": 1758351723094
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 26,
+    "total": 56,
+    "timestamp": 1758351723094
+  },
+  {
+    "type": "frame",
+    "build": 12,
+    "raster": 31,
+    "total": 64,
+    "timestamp": 1758351723094
+  },
+  {
+    "type": "frame",
+    "build": 31,
+    "raster": 26,
+    "total": 59,
+    "timestamp": 1758351723274
+  },
+  {
+    "type": "frame",
+    "build": 26,
+    "raster": 32,
+    "total": 59,
+    "timestamp": 1758351723274
+  },
+  {
+    "type": "frame",
+    "build": 7,
+    "raster": 28,
+    "total": 38,
+    "timestamp": 1758351723274
+  },
+  {
+    "type": "memory",
+    "used": 157286400,
+    "timestamp": 1758351723379
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 37,
+    "total": 45,
+    "timestamp": 1758351723420
+  },
+  {
+    "type": "frame",
+    "build": 11,
+    "raster": 42,
+    "total": 74,
+    "timestamp": 1758351723420
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 22,
+    "total": 39,
+    "timestamp": 1758351723420
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 23,
+    "total": 52,
+    "timestamp": 1758351723420
+  },
+  {
+    "type": "frame",
+    "build": 11,
+    "raster": 21,
+    "total": 47,
+    "timestamp": 1758351723633
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 19,
+    "total": 41,
+    "timestamp": 1758351723633
+  },
+  {
+    "type": "frame",
+    "build": 5,
+    "raster": 18,
+    "total": 47,
+    "timestamp": 1758351723633
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 52,
+    "total": 78,
+    "timestamp": 1758351723633
+  },
+  {
+    "type": "frame",
+    "build": 64,
+    "raster": 39,
+    "total": 113,
+    "timestamp": 1758351723724
+  },
+  {
+    "type": "frame",
+    "build": 31,
+    "raster": 25,
+    "total": 58,
+    "timestamp": 1758351723897
+  },
+  {
+    "type": "frame",
+    "build": 28,
+    "raster": 24,
+    "total": 54,
+    "timestamp": 1758351723897
+  },
+  {
+    "type": "frame",
+    "build": 7,
+    "raster": 28,
+    "total": 36,
+    "timestamp": 1758351724127
+  },
+  {
+    "type": "frame",
+    "build": 6,
+    "raster": 30,
+    "total": 37,
+    "timestamp": 1758351724127
+  },
+  {
+    "type": "frame",
+    "build": 1,
+    "raster": 48,
+    "total": 57,
+    "timestamp": 1758351724127
+  },
+  {
+    "type": "frame",
+    "build": 27,
+    "raster": 50,
+    "total": 80,
+    "timestamp": 1758351724311
+  },
+  {
+    "type": "frame",
+    "build": 3,
+    "raster": 20,
+    "total": 24,
+    "timestamp": 1758351724311
+  },
+  {
+    "type": "frame",
+    "build": 2,
+    "raster": 30,
+    "total": 46,
+    "timestamp": 1758351724311
+  },
+  {
+    "type": "frame",
+    "build": 22,
+    "raster": 38,
+    "total": 62,
+    "timestamp": 1758351724440
+  },
+  {
+    "type": "frame",
+    "build": 19,
+    "raster": 61,
+    "total": 83,
+    "timestamp": 1758351725607
+  },
+  {
+    "type": "frame",
+    "build": 1084,
+    "raster": 32,
+    "total": 1119,
+    "timestamp": 1758351728467
+  },
+  {
+    "type": "memory",
+    "used": 162529280,
+    "timestamp": 1758351728481
+  },
+  {
+    "type": "frame",
+    "build": 374,
+    "raster": 31,
+    "total": 408,
+    "timestamp": 1758351728483
+  }
+]

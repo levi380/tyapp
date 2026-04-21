@@ -1,0 +1,14 @@
+analyzer:
+  plugins:
+    - dart_code_metrics
+
+dart_code_metrics:
+  metrics:
+#    cyclomatic-complexity: 10       # 圈复杂度阈值
+    lines-of-code: 1200              # 代码行数阈值
+#    number-of-arguments: 4          # 参数个数阈值
+#    maximum-nesting-level: 5        # 最大嵌套层次
+
+  rules:
+    - avoid-unused-parameters       # 规避未使用的参数
+    - no-equal-then-else            # 禁止等同的 then 和 else 分支

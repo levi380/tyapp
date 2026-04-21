@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+
+  <script src="https://ca.turing.captcha.qcloud.com/TJNCaptcha-global.js"></script>
+
+  <style>
+    html,body{
+      margin:0;
+      padding:0;
+      height:100%;
+    }
+
+    .container{
+      height:100%;
+      display:flex;
+      justify-content:center;   /* 水平居中 */
+      align-items:center;       /* 垂直居中 */
+    }
+  </style>
+
+  <script>
+    window.onload = function () {
+      try {
+
+        var captcha = new TencentCaptcha(
+          document.getElementById('cap_iframe'),
+          '189929555',
+          function (res) {
+
+            console.log('---------->', res)
+
+            if (res.ret == 0) {
+
+              Captcha.postMessage(JSON.stringify({
+                ticket: res.ticket,
+                randstr: res.randstr
+              }));
+
+            } else {
+
+              Captcha.postMessage(JSON.stringify({cancel:true}));
+
+            }
+
+          },
+          {}
+        );
+
+        captcha.show();
+
+      } catch (error) {
+
+      }
+    }
+  </script>
+
+</head>
+
+<body>
+
+<div class="container">
+  <div id="cap_iframe"></div>
+</div>
+
+</body>
+
+</html>

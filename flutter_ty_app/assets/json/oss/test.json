@@ -1,0 +1,57 @@
+{
+  "img": [
+    "4dWmyPxV9+vsSqYXkBo4Npppw5IpgAx1JwfqFSkiZl9CbhvCzNkbVPVBEhq+BYMB"
+  ],
+  "static": [
+    "BRlZSmVSzSNEyPXuJ0uDVg=="
+  ],
+  "file_name": "test.json",
+  "chatroom": [
+    "LB89HzudzTnAK4FZnhpcaQ=="
+  ],
+  "GAB": {
+    "api": [
+      "wpS6jQ6pOCFaf5gUn/skSDsYFiMbuQysCah8C6GllsbeEx+QpGN9PK+bOm9lsKyG",
+      "wpS6jQ6pOCFaf5gUn/skSDsYFiMbuQysCah8C6GllsbeEx+QpGN9PK+bOm9lsKyG"
+    ]
+  },
+  "type": "测试环境",
+  "web_static": [
+    "6FbdCIHRX4gkt/R1Pb1/Gq8Lz0d3GYXKHF0GCCorcA+XpGrEq+csma53tnA54zy3",
+    "6FbdCIHRX4gkt/R1Pb1/GsMI7w8hjD46WAY0nGJbPd0Gp9eFcqpMdlS4pGdu6eXL"
+  ],
+  "testFileUpload": {
+    "opt": "Wgyqkdxr3RAnl0YbHKKnHQ=="
+  },
+  "update_time": "2026-02-27 16:40:15",
+  "live_domains": {
+    "pc": "AxzqVvbc0eNk0jM6321drVwYWB0ZQTFCY7/+8wi7oMDeEx+QpGN9PK+bOm9lsKyG",
+    "end": "cQH69YNxH9FFKiherGpxbxoKSMAkhmPvXsq2n/3OTx4uHiUCZovZhaYEn4mbfWeF",
+    "h5": "tF9tcF9O0kW0WU51DwDG7FfzqyfgsACHMu1x83qrg+zeEx+QpGN9PK+bOm9lsKyG"
+  },
+  "GAS": {
+    "api": [
+      "Wgyqkdxr3RAnl0YbHKKnHQ=="
+    ]
+  },
+  "topic": [
+    "noHL8dkgxQ66rb9rW2phKuJXczK2DJoCTOPODcmem4BaL2sxmvVgtAZYBY3X9WKq"
+  ],
+  "api": [
+    "r9xOXBBZdEI5f+RyybW9J5ppw5IpgAx1JwfqFSkiZl9CbhvCzNkbVPVBEhq+BYMB"
+  ],
+  "update_by": "ob",
+  "GAY": {
+    "api": [
+      "xgRF9bghT37RDpSh7F7dfhIqI5z4Gn16BTUdEjBzoZs="
+    ]
+  },
+  "jt_static": [
+    "6FbdCIHRX4gkt/R1Pb1/GtcwJdiuFXpPAFaVz0UuxVg="
+  ],
+  "GACOMMON": {
+    "api": [
+      "tk4BqOIT6Gs78xQp/39fQpppw5IpgAx1JwfqFSkiZl9CbhvCzNkbVPVBEhq+BYMB"
+    ]
+  }
+}

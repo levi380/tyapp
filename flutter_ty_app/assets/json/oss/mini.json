@@ -1,0 +1,36 @@
+{
+  "update_time": "2025-05-03 19:10:59",
+  "img": [
+    "j9lst1KwIoAR3lOHYBhuX8xxk6NXCXUZD5ewWs/4/M9/UkN1QmDi/y0TPBmRgQLF"
+  ],
+  "static": [],
+  "jt_static": [
+    "6FbdCIHRX4gkt/R1Pb1/GtcwJdiuFXpPAFaVz0UuxVg="
+  ],
+  "web_static": [
+    "6FbdCIHRX4gkt/R1Pb1/GsMI7w8hjD46WAY0nGJbPd0Gp9eFcqpMdlS4pGdu6eXL"
+  ],
+  "live_domains": {
+    "pc": "c9XcqZdziut70F1l4y0Td1zDh2azjZ0XK83V9Pp0pGQ=",
+    "h5": "4AcVYAxv5BATwXv88erJiFzDh2azjZ0XK83V9Pp0pGQ=",
+    "end": "Vl9hdJyNC+x1CkTY87bm209IhSlFF9hRqACuhWjP1Uk="
+  },
+  "file_name": "mini.json",
+  "GACOMMON": {
+    "api": [
+      "TK7zj7ZfX1+5cl2L1zC3s3i0tEI0WS47JaecjmWH4/jMRzXIPOdjmugug2I6HLZZ",
+      "xgRF9bghT37RDpSh7F7dfpfBKHYE+b/Z1HMedh+ai58="
+    ]
+  },
+  "GAY": {
+    "api": [
+      "abpYZe3c7+QUR6xcj4cqpM3NvuHU7yoaQFDTbqkomrQ=",
+      "xgRF9bghT37RDpSh7F7dfpfBKHYE+b/Z1HMedh+ai58="
+    ]
+  },
+  "api": [
+    "xgRF9bghT37RDpSh7F7dfpfBKHYE+b/Z1HMedh+ai58="
+  ],
+  "update_by": "ob",
+  "type": "等比环境"
+}

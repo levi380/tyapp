@@ -1,0 +1,20 @@
+{
+	"auto_doc": {
+		"port": 36189,
+		"title": "TY原生SDK",
+		"scan_path_arr": [
+			"./job/",
+			"./src/",
+			"./project/",
+			"./lib/"
+		],
+		"scan_file_type_arr": [
+			".js",
+			".vue",
+			".dart",
+			".html",
+			".scss"
+		],
+		"upload_md_zip": true
+	}
+}

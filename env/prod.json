@@ -1,0 +1,30 @@
+{
+  "appConfig": {
+    "appName": "SK",
+    "packageName": "com.sk2026.app",
+    "version": "2.2.8",
+    "versionCode": "5",
+    "iconPath": "assets/launcher/sk_icon.png"
+  },
+  "envConfig": {
+    "api": "https://www5.skbet.com",
+    "mqtt": "wss://rmqtt-hk.skbet.com/mqtt",
+    "apkDownloadUrl": "",
+    "adId": "",
+    "env": "prod",
+    "urls": [
+      "https://files-sk-1367458492.cos.ap-shanghai.myqcloud.com/files2.pb",
+      "https://files-sk.oss-cn-hongkong.aliyuncs.com/files2.pb",
+      "https://h2tf.skbhse.vip/files2.pb",
+      "https://gu5a.skcugr.vip/files2.pb"
+    ],
+    "onLineUrls": [
+      "https://www5.skbet.com",
+      "https://www5.skbet.app"
+    ],
+    "onLineImgUrls": [
+      "https://www5.skbet.com",
+      "https://www5.skbet.app"
+    ]
+  }
+}

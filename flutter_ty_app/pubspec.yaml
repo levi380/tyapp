@@ -1,0 +1,147 @@
+name: flutter_ty_app
+version: 2.0.5
+publish_to: none
+description: tyapp
+environment:
+  sdk: ">=3.2.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  # image_picker: ^1.0.7
+  # 状态管理，路由，多语言，主题，基础组件
+  get: ^4.6.6
+  # 本地存储
+  image_picker: ^1.0.7
+  get_storage: ^2.0.3
+  fl_chart: ^0.69.0
+  flutter_echarts: ^2.0.0
+
+  #获取字节数
+  characters:
+  # 网络相关
+  dio: ^5.3.0
+  lunar: ^1.6.1
+  # 网络请求API
+  retrofit: ">=4.0.0 <4.9.0"
+  # 屏幕适配
+  flutter_screenutil: ^5.9.0
+  # 工具类
+  common_utils: ^2.0.1
+  # 下拉刷新
+  pull_to_refresh: ^2.0.0
+  # 图片缓存
+  cached_network_image:
+  flutter_svg: ^2.0.10+1
+  encrypt: ^5.0.3
+  scrollview_observer: ^1.16.5
+  scroll_to_index: ^3.0.1
+  web_socket_channel: ^3.0.1
+  #toast
+  oktoast: ^3.3.2+1
+  # webview
+  flutter_inappwebview: 6.0.0
+  webview_all: ^0.5.2
+  webview_flutter_platform_interface: ^2.10.0
+  webview_flutter_wkwebview: ^3.24.3
+  # 文本适配
+  auto_size_text: ^3.0.0
+
+  # 显示HTMl控件 暂无Macos windows版本
+  flutter_widget_from_html: ^0.16.0
+  #弹框
+  flutter_popup:
+  # 下拉弹窗
+  super_tooltip:
+
+  hive_ce: ^2.19.1
+  hive_ce_flutter: ^2.3.4
+
+  # 多语言
+  flutter_localizations:
+    sdk: flutter
+    # 布局工具
+  sliver_tools:
+
+  # 视频播放
+  video_player:
+  # fijkplayer: ^0.11.0
+  # 暂无Macos windows版本
+  #  fijkplayer:
+  #    path: packages/fijkplayer-0.11.0
+  # flutter_vlc_player: ^7.4.1
+
+  # 可视化检测
+  visibility_detector: ^0.4.0+2
+
+  # 列表滚动
+  extended_nested_scroll_view: ^6.2.1
+
+  # 骨架屏
+  shimmer: ^3.0.0
+  #锁
+  mutex: ^3.1.0
+  # 设备信息
+  device_info_plus: ^10.1.0
+  #  gif: ^2.3.0
+  # 公告日期筛选器
+  table_calendar:
+  #检测全局网络状态
+  connectivity_plus: ^6.1.1
+  #  get_cli: ^1.8.1
+  fading_edge_scrollview: ^4.1.1
+
+  # 音量控制
+  flutter_volume_controller: ^1.3.2
+  # 图片保存器
+  image_gallery_saver_plus: ^4.0.1
+
+  # 路径
+  path_provider: ^2.1.5
+  #音乐播放
+  audioplayers: ^6.1.0
+#
+  sticky_headers: ^0.3.0+2
+  flutter_sticky_header:
+  easy_sticky_header: ^1.1.1
+  #svga 播放svga动画
+  flutter_svgaplayer3:
+    ^0.0.2
+
+  uuid: ^4.3.3
+  crypto: ^3.0.3
+
+  collection: ^1.18.0
+    #烟花svga 动画配置
+    #svgaplayer_flutter:
+    #git:
+    #url: https://github.com/svga/SVGAPlayer-Flutter.git
+  #ref: master
+dependency_overrides:
+  package_info_plus: 8.3.0
+
+dev_dependencies:
+  # 代码检测
+  flutter_lints: ^2.0.0
+  # 测试
+  flutter_test:
+    sdk: flutter
+  # 代码生成
+  retrofit_generator: ">=8.0.0 <10.0.0"
+  build_runner: ">=2.3.0 <4.0.0"
+  json_serializable: ^6.8.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - res/oss/
+    - fonts/
+    - assets/
+    - assets/json/
+#    - family: Akrobat
+#      fonts:
+#        - asset: fonts/Akrobat-Bold.otf

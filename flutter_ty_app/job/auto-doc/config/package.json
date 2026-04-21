@@ -1,0 +1,48 @@
+{
+  "name": "auto-doc-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "type": "module",
+  "scripts": {
+
+
+    "divider--10003--1": "echo  -------------------------自动化脚本 注释文档 开始----------------------------- ",
+    "auto-doc-scan": "node ./job/auto-doc/auto-doc-lib-entry.js  scan",
+    "auto-doc-convert": "node ./job/auto-doc/auto-doc-lib-entry.js  convert",
+    "auto-doc-server": "node ./job/auto-doc/auto-doc-lib-entry.js  server",
+    "auto-doc-server-2": "http-server ./job/output/generate_html/ -p=36177 -o",
+    "auto-doc-scan-and-convert": "run-s auto-doc-scan  auto-doc-convert",
+    "auto-doc-all": "run-s  auto-doc-merge-config-file   install-dependencies auto-doc-scan  auto-doc-convert  auto-doc-server",
+    "auto-doc-lib-zip": "node ./job/auto-doc/zip/zip-lib.js",
+    "auto-doc-md-zip": "node ./job/auto-doc/zip/zip-md.js",
+    "auto-doc-md-zip-upload": "run-s  auto-doc-scan  auto-doc-convert auto-doc-md-zip",
+    "auto-doc-merge-config-file": "node ./job/auto-doc/process/merge-config-file.js",
+    "auto-doc-restore-config-file": "node ./job/auto-doc/process/restore-config-file.js",
+    "auto-doc-restore": "npm run auto-doc-restore-config-file",
+    "ada": "npm run auto-doc-all",
+    "divider--10003--2": "echo  -------------------------自动化脚本 注释文档 结束----------------------------- ",
+    "install-dependencies": "npm install "
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "archiver": "^7.0.1",
+    "colors": "^1.4.0",
+    "cross-env": "^7.0.3",
+    "extract-zip": "^2.0.1",
+    "highlight.js": "^11.10.0",
+    "live-server": "^1.2.2",
+    "markdown-it": "^14.1.0",
+    "npm-run-all": "^4.1.5",
+    "open": "^10.1.0",
+    "shelljs": "^0.8.5",
+    "randomstring": "^1.3.0",
+    "write-json-file": "^6.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

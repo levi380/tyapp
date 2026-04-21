@@ -1,0 +1,60 @@
+{
+  "img": [
+    "j9lst1KwIoAR3lOHYBhuX8xxk6NXCXUZD5ewWs/4/M9/UkN1QmDi/y0TPBmRgQLF",
+    "j9lst1KwIoAR3lOHYBhuX/zFC4ffl1wHAfpeksysX5TuxPUIBerEhSvacm6VEJyt",
+    "j9lst1KwIoAR3lOHYBhuX4D4RbyQjy6ZziVeL3ggd8ruxPUIBerEhSvacm6VEJyt"
+  ],
+  "static": [],
+  "file_name": "lspre.json",
+  "chatroom": [
+    "Wgyqkdxr3RAnl0YbHKKnHQ=="
+  ],
+  "GAB": {
+    "api": [
+      "JivWH3J7qd5p8SQ99nwdUMzFm/Ued4uy0Wr7ljtiqzV/UkN1QmDi/y0TPBmRgQLF"
+    ]
+  },
+  "type": "隔离环境",
+  "message_center": [
+    "xgRF9bghT37RDpSh7F7dfmZUGbLXb/vchxkuBXCINBw="
+  ],
+  "web_static": [
+    "6FbdCIHRX4gkt/R1Pb1/Gq8Lz0d3GYXKHF0GCCorcA+XpGrEq+csma53tnA54zy3",
+    "6FbdCIHRX4gkt/R1Pb1/GgkRqyVUh5eR1fg1OLZ9p9Z/UkN1QmDi/y0TPBmRgQLF",
+    "6FbdCIHRX4gkt/R1Pb1/GsMI7w8hjD46WAY0nGJbPd0Gp9eFcqpMdlS4pGdu6eXL"
+  ],
+  "update_time": "2025-12-13 21:13:53",
+  "live_domains": {
+    "pc": "/bCxcXNX6ccXJsZ6L4YVMJgWOGNjO0WFED6P/Oru5RUuHiUCZovZhaYEn4mbfWeF",
+    "end": "/bCxcXNX6ccXJsZ6L4YVMGjBr8B5AL2ANeOBLNzO7WsPePeyYLsNi8gAL7lDMFk7",
+    "h5": "/bCxcXNX6ccXJsZ6L4YVMExJWctZAAs0e0YB7/cBTNcuHiUCZovZhaYEn4mbfWeF"
+  },
+  "GAS": {
+    "api": [
+      "IzfcwK8KwL3T/tmQ10PouczFm/Ued4uy0Wr7ljtiqzV/UkN1QmDi/y0TPBmRgQLF"
+    ]
+  },
+  "topic": [
+    "OuLjq513kOGUBkiAKTfvJVF4KjoaRBvm9TvVbUh2jFajGEQiMQYnkru/RAk7D8RZ"
+  ],
+  "api": [
+    "XvTYDq9xY3rY9JE9Kcknm5ppw5IpgAx1JwfqFSkiZl9CbhvCzNkbVPVBEhq+BYMB",
+    "MLb2YJ5bjwQrijDwbEGXuR2DFspar/k3yxwGaEtCIlR/UkN1QmDi/y0TPBmRgQLF"
+  ],
+  "update_by": "ob",
+  "GAY": {
+    "api": [
+      "V7LGNPZWO80QC4X7Ecc+vszFm/Ued4uy0Wr7ljtiqzV/UkN1QmDi/y0TPBmRgQLF"
+    ]
+  },
+  "jt_static": [
+    "6FbdCIHRX4gkt/R1Pb1/GhNx9Fp7th8HIOHBcX4W+dNaDKqR3GvdECeXRhscoqcd",
+    "6FbdCIHRX4gkt/R1Pb1/GjM94mf50yZrmcKgCEjD73c=",
+    "6FbdCIHRX4gkt/R1Pb1/GnKTiGopAPoFtc2GPqos0p1/UkN1QmDi/y0TPBmRgQLF"
+  ],
+  "GACOMMON": {
+    "api": [
+      "XvTYDq9xY3rY9JE9Kcknm5ppw5IpgAx1JwfqFSkiZl9CbhvCzNkbVPVBEhq+BYMB"
+    ]
+  }
+}

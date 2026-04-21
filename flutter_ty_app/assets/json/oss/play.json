@@ -1,0 +1,44 @@
+{
+  "update_time": "2026-01-26 17:23:08",
+  "topic": [
+    "VijmdUkIZl454580y0teW5a6L5RigX1Rb1SDcRpHTjAZE5fPL8WdYjBf/9i8SUT3"
+  ],
+  "jt_static": [
+    "6FbdCIHRX4gkt/R1Pb1/GuFW8TKeKyKYoM8frUpYD70="
+  ],
+  "web_static": [
+    "6FbdCIHRX4gkt/R1Pb1/Gq8Lz0d3GYXKHF0GCCorcA+XpGrEq+csma53tnA54zy3"
+  ],
+  "img": [
+    "QQpB+B8LQaNFB5J8PxJWyRt0FbDdsc4+nTz0gDJko3k="
+  ],
+  "static": [],
+  "live_domains": {
+    "pc": "l/6kJC6pP2XOwe5nrTXUCvEz/AEi/woR/3cHiHp4jsBaDKqR3GvdECeXRhscoqcd",
+    "h5": "r3/OLW4RbWw5/7DFUU6gM/Ez/AEi/woR/3cHiHp4jsBaDKqR3GvdECeXRhscoqcd",
+    "end": "U6i99yoe0qNFAkl4wUPbiQb+EY68+UidSnkIXIhKGbHMRzXIPOdjmugug2I6HLZZ"
+  },
+  "file_name": "play.json",
+  "GAB": {
+    "api": [
+      "s7OWtICGLnxK8h7C85vGK8qChrgxrydp+DzFcALrSMI="
+    ]
+  },
+  "api": [
+    "foD/zLIIeO76kcWlq8BdudP1Hsa6u03+SQMuVOpBPiA=",
+    "foD/zLIIeO76kcWlq8Bdudn+Y6IG/YSGOxOystGOGx7MRzXIPOdjmugug2I6HLZZ"
+  ],
+  "update_by": "ob",
+  "type": "试玩环境",
+  "GAY": {
+    "api": [
+      "crj9UzMyiV8d+xKktZ8n1i/+ogaqj6l3j0ty2x2m5SV/UkN1QmDi/y0TPBmRgQLF"
+    ]
+  },
+  "GACOMMON": {
+    "api": [
+      "foD/zLIIeO76kcWlq8BdudP1Hsa6u03+SQMuVOpBPiA=",
+      "foD/zLIIeO76kcWlq8Bdudn+Y6IG/YSGOxOystGOGx7MRzXIPOdjmugug2I6HLZZ"
+    ]
+  }
+}
