@@ -1,4 +1,4 @@
-# sk
+# tyApp
 
 # 打包方式
 ### 方式一：直接通过flutter build apk 拼接环境
